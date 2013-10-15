@@ -11,6 +11,12 @@
     <em:creator>cryan@redhat.com, mzimen@redhat.com</em:creator>
 
     <em:description>Enhances TCMS and Jenkins for use with the Cucushift testing framework.</em:description>
-    <em:homepageURL>github.com/cjryan/cucushift-firefox</em:homepageURL>
+    <em:homepageURL>https://github.com/cjryan/cucushift-firefox</em:homepageURL>
+
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+      </Description>
+    </em:targetApplication>
   </Description>
 </RDF>
