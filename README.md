@@ -20,4 +20,4 @@ In the 'Cases' drop-down menu in TCMS (located above the mass of tags in the mid
 
 * The CucuShift drop-down element will allow a user to select cases to be run in Jenkins for Continuous Integration testing.
 * The JIRA Issue drop-down element will take you to JIRA to file an issue regarding the particular case; for example, if there is a blocker, a bug, or a general issue.
-*The 'SetDeveloper' will update the 'Notes' field in TCMS to the active developer of a cucumber scenario, which will then show up in the far right "Developer" column in the case run page.
+* The 'SetDeveloper' will update the 'Notes' field in TCMS to the active developer of a cucumber scenario, which will then show up in the far right "Developer" column in the case run page.
