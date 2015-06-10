@@ -23,3 +23,5 @@ In the 'Cases' drop-down menu in TCMS (located above the mass of tags in the mid
 * The 'SetDeveloper' drop-down element  will update the 'Notes' field in TCMS to the active developer of a cucumber scenario, which will then show up in the far right "Developer" column in the case run page.
 
 When you visit a 'case' page in TCMS (a url ending in *case/<case\_id>), you will notice a link to GitHub near the 'Script' field. This will take you to the direct GitHub link for a given scenario for review.
+
+Clicking on the Add-on icon will take you to the CucuShift GitHub page. At the moment, this is a closed (members-only) repository.
