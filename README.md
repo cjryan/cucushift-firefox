@@ -12,7 +12,7 @@ In order to build this extension as a .xpi file, to install into firefox, please
 Usage
 -----
 
-When you visit a TCMS caserun page (a url ending in *runs/<run_id>), the page will automatically be modified by the plugin.
+When you visit a TCMS caserun page (a url ending in *runs/<run\_id>), the page will automatically be modified by the plugin.
 
 You will notice a new "Developers" column has been added to the far right, indicating the developer of a particular case, based off of the 'Notes' field in TCMS.
 
@@ -21,3 +21,5 @@ In the 'Cases' drop-down menu in TCMS (located above the mass of tags in the mid
 * The CucuShift drop-down element will allow a user to select cases to be run in Jenkins for Continuous Integration testing.
 * The JIRA Issue drop-down element will take you to JIRA to file an issue regarding the particular case; for example, if there is a blocker, a bug, or a general issue.
 * The 'SetDeveloper' drop-down element  will update the 'Notes' field in TCMS to the active developer of a cucumber scenario, which will then show up in the far right "Developer" column in the case run page.
+
+When you visit a 'case' page in TCMS (a url ending in *case/<case\_id>), you will notice a link to GitHub near the 'Script' field. This will take you to the direct GitHub link for a given scenario for review.
